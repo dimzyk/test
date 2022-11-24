@@ -1,8 +1,6 @@
-<<<<<<< HEAD
+
 testing123
-=======
 testing line
->>>>>>> cf5b58b2e2d644662aadef5ae23ac768a3b69f2d
 commit test
 456
 789.
